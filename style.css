@@ -51,7 +51,7 @@ html{
 }
 #home::before{
     content: "";
-    background: url('..bg.jpg') no-repeat center; 
+    background: url('bg.jpg') no-repeat center; 
     position: absolute;
     height: 578px;
     top: 0px;
